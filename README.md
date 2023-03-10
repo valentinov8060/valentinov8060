@@ -1,4 +1,4 @@
-- 👋 Hi, I’m valentinov
+- 👋 Hi, I’m Bill Valentinov
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning Lampung University
 - 💞️ I’m looking to collaborate on ...
