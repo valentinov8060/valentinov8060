@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bill Valentinov
-- 👀 I’m interested in front end
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Lampung University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
