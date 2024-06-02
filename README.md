@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bill Valentinov</h1>
-<h3 align="center">A Informatics Engineering student at the University of Lampung with a main interest in software development. Currently I am focusing on learning several technologies in web and application development.</h3>
+<h3 align="center">A Computer Science student at the University of Lampung with an interest in software development. Currently focused on learning various software development technologies, especially those using JavaScript.</h3>
 
 - 🌱 I’m currently learning **Node.js, Express, MongoDB, MySQL, React Native and A-Frame**
 
