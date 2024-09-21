@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bill Valentinov</h1>
-<h3 align="center">A dedicated and ambitious Computer Science student at the University of Lampung with a strong focus on software development. Experienced in building scalable, efficient applications using modern technologies such as JavaScript, React, Node.js, and Laravel. Adept at both frontend and backend development, with a particular interest in cloud computing and AI-driven solutions. Eager to apply and expand my technical expertise through innovative projects and collaborative environments.</h3>
+<h3 align="center">A dedicated and ambitious Computer Science student at the University of Lampung with a strong focus on software development. Experienced in building scalable, efficient applications using modern technologies such as JavaScript, React, Node.js, and Laravel. Adept at both frontend and backend development, with a particular interest AI-driven solutions. Eager to apply and expand my technical expertise through innovative projects and collaborative environments.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, TypeScript, Bootstrap, Node.js, Express, MySQL, MongoDB, React, React Native, A-Frame, Laravel, Next.js, Jest, Supertest, Git**
 
